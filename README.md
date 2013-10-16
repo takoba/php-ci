@@ -1,5 +1,7 @@
 # takoba/php-ci
 
+[![Build Status](https://travis-ci.org/takoba/php-ci.png?branch=master)](https://travis-ci.org/takoba/php-ci)
+
 ## What's this?
 PHPでCIやるための環境をつくってみてる（いろいろと使い回せるようにしたいなあ）
 
